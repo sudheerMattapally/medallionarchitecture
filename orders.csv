@@ -1,0 +1,5 @@
+order_id,customer_id,order_date,amount,status
+101,1,2023-04-01,250.00,shipped
+102,2,2023-04-03,150.00,shipped
+103,1,2023-04-05,75.00,cancelled
+104,3,2023-04-10,300.00,shipped
